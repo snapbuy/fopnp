@@ -10,3 +10,4 @@ playground/base/requirements.txt
 playground/.vagrant
 playground/package.box
 .DS_Store
+py3/.DS_Store
